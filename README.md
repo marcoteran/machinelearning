@@ -3,9 +3,11 @@
 # ST1631 — Aprendizaje de Máquina aplicado
 ## Tecnologías de la información y la comunicación
 
-
-#  Clase vitrual 30 de octubre
+---
+#  Clase virtual 30 de octubre
 El link de la clase es el siguiente: [ENLACE](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWI2MWM1YzYtM2ZjOS00ZmI2LThhZjQtNmU5NjYxYWRhYTQy%40thread.v2/0?context=%7b%22Tid%22%3a%2299f7b55e-9cbe-467b-8143-919782918afb%22%2c%22Oid%22%3a%22f70bcdd9-cf77-4c7d-a421-985ad119841e%22%7d)
+
+---
 
 ### Descripción del curso
 Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**: desde la definición del problema y la calidad de datos hasta el modelado, la validación honesta, la interpretación y la comunicación de resultados. Se cubren modelos lineales y regularizados, SVM, ensambles (Random Forest, Gradient Boosting, XGBoost), aprendizaje no supervisado, una introducción acotada a \_deep learning\_ y nociones de series de tiempo. Enfoque práctico con \`scikit-learn\`, \`pandas\`, y \`matplotlib\`.
