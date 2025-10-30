@@ -58,14 +58,9 @@ Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**
        [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_treesensemblesgbdt.ipynb)  
        [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_treesensemblesgbdt.ipynb)
 
-6. **Aprendizaje no supervisado**
-  	* **Reducción de dimensionalidad:** PCA; selección de variables.
-  	* **Aprendizaje no supervisado:** \(k\)-means, clustering jerárquico, validación.
-
-7. **Introducción a Deep Learning** 
+6. **Introducción a Deep Learning** 
 	* Redes neuronales y MLP
-	
-8. **Resumen**
+
 
 ---
 ## Evaluación
