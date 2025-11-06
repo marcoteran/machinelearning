@@ -4,8 +4,8 @@
 ## Tecnologías de la información y la comunicación
 
 ---
-#  Clase virtual 30 de octubre
-El link de la clase es el siguiente: [ENLACE](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWI2MWM1YzYtM2ZjOS00ZmI2LThhZjQtNmU5NjYxYWRhYTQy%40thread.v2/0?context=%7b%22Tid%22%3a%2299f7b55e-9cbe-467b-8143-919782918afb%22%2c%22Oid%22%3a%22f70bcdd9-cf77-4c7d-a421-985ad119841e%22%7d)
+#  Clase virtual 05 de noviembre
+El link de la clase es el siguiente: [ENLACE](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVjOTFkZjYtOGUyZi00ZmRhLTg0NjUtYWE4NTlmZGU3ZDUx%40thread.v2/0?context=%7b%22Tid%22%3a%2299f7b55e-9cbe-467b-8143-919782918afb%22%2c%22Oid%22%3a%22f70bcdd9-cf77-4c7d-a421-985ad119841e%22%7d)
 
 ---
 
@@ -65,7 +65,12 @@ Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**
        [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_treesensemblesgbdt.ipynb)
 
 6. **Introducción a Deep Learning** 
-	* Redes neuronales y MLP
+	 Redes neuronales y MLP
+	* Descargar presentación: [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/06_ml_deeplearning.pdf)
+	* IPython Notebooks:
+     - **Introducción al Aprendizaje profundo** [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_deeplearning.ipynb)  
+       [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_deeplearning.ipynb)  
+       [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_deeplearning.ipynb)
 
 
 ---
