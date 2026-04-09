@@ -23,6 +23,10 @@ Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**
 2. **Capitulo 2 - EDA, calidad de datos, preprocesamiento y pipelines**
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_mla_eda.pdf)
 		* **[Norvig2009]** Peter Norvig et al. *“The Unreasonable Effectiveness of Data”* [(article)](https://static.googleusercontent.com/media/research.google.com/es//pubs/archive/35179.pdf)
+		* IPython Notebooks:
+			- Exploración de los datos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
 
 ---
 ## Material adicional
