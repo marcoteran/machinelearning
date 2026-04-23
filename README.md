@@ -28,9 +28,14 @@ Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
 			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
 
-3. **Modelos lineales y regularización:** Ridge, Lasso, Elastic Net; regresión logística.
+3. **Capitulo 3 - Modelos lineales y regularización:** Ridge, Lasso, Elastic Net; regresión logística.
 	* Descargar presentación: [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/03_mla_regressors.pdf)
-	* **Classifier Playground** This page demonstrates basic classifiers: k nearest neighbors, decision tree, and linear classifiers. [(web)](https://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
+		* **Classifier Playground** This page demonstrates basic classifiers: k nearest neighbors, decision tree, and linear classifiers. [(web)](https://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
+		* **Regresión de Mínimos Cuadrados tool** [(web)](https://phet.colorado.edu/es_PE/simulations/least-squares-regression)
+		* IPython Notebooks:
+			- Modelos lineales [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_linearmodels.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_linearmodels.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_linearmodels.ipynb)
 
 ---
 ## Material adicional
