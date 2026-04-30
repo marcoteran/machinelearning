@@ -37,6 +37,13 @@ Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_linearmodels.ipynb)
 			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_linearmodels.ipynb)
 
+4. **Capitulo 4 - Validación y selección de modelos:** KNN, SVM, GPs e imbalance.
+	* Descargar presentación: [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_mla_modelselectionandvalidation.pdf)
+		* IPython Notebooks:
+			- Modelos lineales [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_modelselectionandvalidation.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_modelselectionandvalidation.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_modelselectionandvalidation.ipynb)
+
 ---
 ## Material adicional
 * [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
