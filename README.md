@@ -44,6 +44,14 @@ Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_modelselectionandvalidation.ipynb)
 			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_modelselectionandvalidation.ipynb)
 
+5. **Capitulo 5 - Árboles, ensambles, bagging y boosting:** Random Forest, XGBoost, LightGBM y CatBoost.
+	* Descargar presentación: [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/05_mla_trees_ensembles_boosting.pdf)
+		* IPython Notebooks:
+			- Modelos lineales [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_boosting_optuna.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/ml_boosting_optuna.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/machinelearning/blob/master/notebooks/ml_boosting_optuna.ipynb)
+		* **Recursos:** [XGBoost](https://xgboost.readthedocs.io/)<br>[XGBoost · Parameters](https://xgboost.readthedocs.io/en/stable/parameter.html)<br>[LightGBM](https://lightgbm.readthedocs.io/en/stable/)<br>[CatBoost](https://catboost.ai/)<br>[Optuna](https://optuna.org/)<br>[SHAP](https://shap.readthedocs.io/en/latest/)<br>[SHAP · Introduction to Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)<br>[MLflow](https://mlflow.org/)<br>[Residual plots](https://statisticsbyjim.com/regression/check-residual-plots-regression-analysis/)<br>[Applied ML article for critical metric discussion](https://www.mdpi.com/2075-4418/14/24/2813)
+
 ---
 ## Material adicional
 * [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
